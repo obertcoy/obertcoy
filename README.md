@@ -1,5 +1,6 @@
 ## Hi there 👋
 💻 I enjoy working on web development, but I'm also diving deep into AI technologies.
+
 🌱 I’m currently learning Machine Learning and Deep Learning
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obertcoy&layout=compact)
