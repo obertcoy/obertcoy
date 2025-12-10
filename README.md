@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 💻 I enjoy working on web development, but I'm also diving deep into AI technologies.
 
@@ -7,7 +8,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=obertcoy)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **obertcoy/obertcoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
